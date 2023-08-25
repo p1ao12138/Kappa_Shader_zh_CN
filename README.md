@@ -1,4 +1,4 @@
-**Kappa Shader Chinese Translation**
+**Kappa Shader zh_CN**
 
 这是为 Kappa Shader 所制作的汉化文件。
 
