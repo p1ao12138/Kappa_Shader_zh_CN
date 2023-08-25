@@ -1,6 +1,6 @@
 # Translated by: [p1ao12138]
 # Date: [August 25, 2023]
-# Additional Notes: [No translation for the ”Misc>INTERNAL“ part]
+# Additional Notes: [No translation for the "Misc>INTERNAL" part]
 option.INFO=Kappa Shader by RRe36
 value.INFO.0=v5.2 汉化版
 
@@ -399,6 +399,7 @@ profile.High=高
 profile.Ultra=超高
 profile.Extreme=极致
 
+
 #杂质
 
 
@@ -408,6 +409,7 @@ option.DEBUG_VIEW=调试模式
 
 option.planetRadiusScale=行星半径比率
 option.LOCAL_EXPOSURE_DEMO=局部曝光 DEMO
+
 
 #后期处理
 
