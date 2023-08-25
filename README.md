@@ -1,12 +1,12 @@
 **Kappa Shader zh_CN**
 
-这是为 Kappa Shader 所制作的汉化文件。
+这是为 Kappa 光影所制作的汉化文件。
 
 **特点：**
 
-- 完整的 Kappa Shader 中文翻译。
+- 完整的 Kappa 光影中文翻译。
 - 保持与原版语义的忠实，为中文玩家提供了流畅的游戏体验。
-- 定期更新以跟随 Kappa Shader 的新版本。
+- 定期更新以跟随 Kappa 光影的新版本。
 
 **使用方法：**
 
